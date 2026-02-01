@@ -21,14 +21,12 @@ firebase-admin-key.json
 *.swp
 *.swo
 
-# Logs
-*.log
-logs/
-
 # Local data
 data/users/
+*.log
+logs/
+.env
 
 # OS
 .DS_Store
 Thumbs.db
-.env
